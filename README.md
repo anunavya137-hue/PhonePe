@@ -164,6 +164,54 @@ Line plots showing:
 
 ---
 
+## 🔗 Data Integration & Advanced Analysis
+
+### District Mapping
+- Identified unique district name and district code mappings
+- Exported mappings to a CSV file
+
+### State-Level Aggregation
+Aggregated district data to calculate:
+- Total transactions
+- Total transaction amount
+- Total registered users for each state
+
+### User to Population Ratio
+Merged transaction and demographic datasets to calculate:
+
+Registered Users / Population ratio for each state.
+
+### Correlation Analysis
+Calculated correlation between:
+- Population Density
+- Transaction Volume
+
+The correlation was very weak, indicating population density alone does not strongly influence transaction activity.
+
+---
+
+## 🔑 Key Insights
+
+- Digital payment transactions have increased significantly over the years.
+- Merchant payments and peer-to-peer transfers dominate transaction activity.
+- A few smartphone brands account for the majority of registered users.
+- Population density shows weak correlation with transaction volume.
+- Digital payment adoption varies significantly across states.
+
+---
+
+## 💡 Recommendations
+
+- Increase digital literacy programs in low-transaction regions.
+- Improve internet and digital infrastructure in rural districts.
+- Encourage merchant onboarding to increase transaction volume.
+- Optimize the application for commonly used smartphone brands.
+
+---
+
+## 📌 Conclusion
+
+This analysis highlights the growth of digital payments in India and demonstrates how transaction trends, device usage, and demographic factors interact within the PhonePe ecosystem. The insights can help identify opportunities to improve digital payment adoption across different regions.
 
 ---
 
